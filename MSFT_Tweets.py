@@ -108,6 +108,7 @@ class TweetAnalyzer():
         df['likes'] = np.array([tweet.favorite_count for tweet in tweets])
         #df['retweet'] = np.array([tweet.retweet_count for tweet in tweets])
         return df
+    
 
 
 # This is the main function
