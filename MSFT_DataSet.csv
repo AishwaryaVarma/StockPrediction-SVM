@@ -6,7 +6,7 @@ datasets:~
 "MacroTrends LLC expressly disclaims the accuracy, adequacy, or completeness of any data and shall not be liable for any errors, omissions or other defects in, "
 "delays or interruptions in such data, or for any actions taken in reliance thereon.  Neither MacroTrends LLC nor any of our information providers will be liable"
 "for any damages relating to your use of the data provided."
-
+""
 
 date,open,high,low,close,volume
 1986-03-13,0.0582,0.0667,0.0582,0.0639,1031788800
